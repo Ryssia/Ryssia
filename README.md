@@ -22,7 +22,7 @@
   <img align="center" alt="Ryssia-C" height="50" widith="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Ryssia" height="50" widith="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Ryssia" height="50" widith="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
->
+
 
 
  </div>
