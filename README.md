@@ -16,11 +16,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryssia&layout=compact&langs_count=7&theme=radical"/>
  </div>
  
- 
- <div  style="display-flex" style="margin-bottom: 2rem" ><br>
-  <img align="center" alt="Ryssia-C" height="50" widith="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Ryssia" height="50" widith="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Ryssia" height="50" widith="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
 
 
