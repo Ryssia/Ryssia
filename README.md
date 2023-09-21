@@ -4,7 +4,7 @@
   ### My name is Ryssia Elias
 
   - 📕 I am currently studying Systems Analysis and Development at IFPR.
-  - 🖋 Basic knowledge in JAVA, HTML, CSS.
+  - 🖋 Basic knowledge in Laravel, JAVA, HTML, CSS.
   - 📧 How to reach me: ryssia.elias@gmail.com
   - 😄 Pronouns: her/she
 
